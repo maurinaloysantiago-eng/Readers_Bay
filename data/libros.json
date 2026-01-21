@@ -376,5 +376,34 @@
     "autor": "Julio Verne",
     "anio": 1865,
     "genero": "Aventura"
-  }
+  },
+
+  {
+     "id": 56,
+     "titulo": "El Señor de las Moscas",
+     "autor": "William Golding",
+     "anio": 1954,
+     "genero": "Novela Psicológica"
+   },
+   {
+     "id": 57,
+     "titulo": "El Retrato de Dorian Gray",
+     "autor": "Oscar Wilde",
+     "anio": 1890,
+     "genero": "Novela Filosófica"
+   },
+  {
+     "id": 58,
+     "titulo": "La Tregua",
+     "autor": "Mario Benedetti",
+     "anio": 1960,
+     "genero": "Novela"
+   },
+  {
+     "id": 59,
+     "titulo": "El Principito",
+     "autor": "Antoine de Saint-Exupéry",
+     "anio": 1943,
+     "genero": "Fantasía"
+   }
 ]
