@@ -138,6 +138,243 @@
         "autor": "Anton Chéjov",
         "anio": 1904,
         "genero": "Teatro"
-    }
-
+    },
+    {
+      "id": 21,
+      "titulo": "Harry Potter y la Piedra Filosofal",
+      "autor": "J. K. Rowling",
+      "anio": 1997,
+      "genero": "Fantasía"
+   },
+   {
+     "id": 22,
+     "titulo": "Harry Potter y la Cámara Secreta",
+     "autor": "J. K. Rowling",
+     "anio": 1998,
+     "genero": "Fantasía"
+   },
+   {
+     "id": 23,
+     "titulo": "Harry Potter y el Prisionero de Azkaban",
+     "autor": "J. K. Rowling",
+     "anio": 1998,
+     "genero": "Fantasía"
+   },
+   {
+     "id": 24,
+     "titulo": "Harry Potter y el Cáliz de Fuego",
+     "autor": "J. K. Rowling",
+     "anio": 2000,
+     "genero": "Fantasía"
+    },
+    {
+     "id": 25,
+     "titulo": "Harry Potter y la Orden del Fénix",
+     "autor": "J. K. Rowling",
+     "anio": 2003,
+     "genero": "Fantasía"
+   },
+   {
+       "id": 26,
+     "titulo": "Harry Potter y el Misterio del Príncipe",
+     "autor": "J. K. Rowling",
+     "anio": 2005,
+     "genero": "Fantasía"
+   },
+   {
+     "id": 27,
+     "titulo": "Harry Potter y las Reliquias de la Muerte",
+     "autor": "J. K. Rowling",
+     "anio": 2007,
+     "genero": "Fantasía"
+   },
+  {
+     "id": 28,
+     "titulo": "Harry Potter y el Legado Maldito",
+     "autor": "J. K. Rowling, John Tiffany y Jack Thorne",
+     "anio": 2016,
+     "genero": "Teatro"
+   },
+  {
+     "id": 29,
+     "titulo": "Casa de Muñecas",
+     "autor": "Henrik Ibsen",
+     "anio": 1879,
+     "genero": "Teatro"
+   },
+  {
+     "id": 30,
+     "titulo": "Hedda Gabler",
+     "autor": "Henrik Ibsen",
+     "anio": 1890,
+     "genero": "Teatro"
+   },
+   {
+     "id": 31,
+     "titulo": "La Vida es Sueño",
+     "autor": "Pedro Calderón de la Barca",
+     "anio": 1635,
+     "genero": "Teatro"
+   },
+  {
+     "id": 32,
+     "titulo": "Animal Farm",
+     "autor": "George Orwell",
+     "anio": 1945,
+     "genero": "Novela Corta"
+   },
+  {
+     "id": 33,
+     "titulo": "1984",
+     "autor": "George Orwell",
+     "anio": 1949,
+     "genero": "Novela Corta"
+   },
+  {
+     "id": 34,
+     "titulo": "Journey to the River Sea",
+     "autor": "Eva Ibboston",
+     "anio": 2002,
+     "genero": "Novela Corta"
+   },
+  {
+     "id": 35,
+     "titulo": "Orgullo y Prejuicio",
+     "autor": "Jane Austen",
+     "anio": 1813,
+     "genero": "Romance"
+   },
+  {
+     "id": 36,
+     "titulo": "Emma",
+     "autor": "Jane Austen",
+     "anio": 1815,
+     "genero": "Novela"
+   },
+   {
+     "id": 37,
+     "titulo": "David Copperfield",
+     "autor": "Charles Dickens",
+     "anio": 1850,
+     "genero": "Novela"
+   },
+   {
+     "id": 38,
+     "titulo": "A Christmas Carol",
+     "autor": "Charles Dickens",
+     "anio": 1843,
+     "genero": "Novela Corta"
+    },
+    {
+     "id": 39,
+     "titulo": "Doña Bárbara",
+     "autor": "Rómulo Gallegos",
+     "anio": 1929,
+     "genero": "Novela Regionalista"
+    },
+    {
+     "id": 40,
+     "titulo": "Canaima",
+     "autor": "Rómulo Gallegos",
+     "anio": 1935,
+     "genero": "Novela Regionalista"
+    },
+    {
+     "id": 41,
+     "titulo": "Pobre Negro",
+     "autor": "Rómulo Gallegos",
+     "anio": 1937,
+     "genero": "Novela Regionalista"
+    },
+    {
+     "id": 42,
+     "titulo": "La Divina Comedia",
+     "autor": "Dante Alighieri",
+     "anio": 1472,
+     "genero": "Epopeya"
+    },
+    {
+     "id": 43,
+     "titulo": "Blanca como la Nieve, Roja como la Sangre",
+     "autor": "Alessandro D'Avenia",
+     "anio": 2009,
+     "genero": "Romance Juvenil"
+    },
+    {
+     "id": 45,
+     "titulo": "El Niño con el Pijama de Rayas",
+     "autor": "John Boyne",
+     "anio": 2006,
+     "genero": "Ficción Histórica"
+    },
+    {
+     "id": 46,
+     "titulo": "Fahrenheit 451",
+     "autor": "Ray Bradbury",
+     "anio": 1953,
+     "genero": "Ciencia Ficción"
+    },
+   {
+     "id": 47,
+     "titulo": "Romeo y Julieta",
+     "autor": "William Shakespeare",
+     "anio": 1597,
+     "genero": "Teatro"
+     },
+     {
+     "id": 48,
+     "titulo": "Otelo",
+     "autor": "William Shakespeare",
+     "anio": 1604,
+     "genero": "Teatro"
+     },
+    {
+     "id": 49,
+     "titulo": "Hamlet",
+     "autor": "William Shakespeare",
+     "anio": 1623,
+     "genero": "Teatro"
+   },
+  {
+     "id": 50,
+     "titulo": "Macbeth",
+     "autor": "William Shakespeare",
+     "anio": 1623,
+     "genero": "Teatro"
+  },
+  {
+    "id": 51,
+    "titulo": "Los Miserables",
+    "autor": "Victor Hugo",
+    "anio": 1862,
+    "genero": "Ficción Histórica"
+  },
+  {
+    "id": 52,
+    "titulo": "La Vuelta al Mundo en 80 Días",
+    "autor": "Julio Verne",
+    "anio": 1872,
+    "genero": "Aventura"
+  },
+  {
+    "id": 53,
+    "titulo": "Veinte Mil Leguas de Viaje Submarino",
+    "autor": "Julio Verne",
+    "anio": 1870,
+    "genero": "Aventura"
+  },
+  {
+    "id": 54,
+    "titulo": "Viaje al Centro de la Tierra",
+    "autor": "Julio Verne",
+    "anio": 1864,
+    "genero": "Aventura"
+  },
+  {
+    "id": 55,
+    "titulo": "De la Tierra a la Luna",
+    "autor": "Julio Verne",
+    "anio": 1865,
+    "genero": "Aventura"
+  }
 ]

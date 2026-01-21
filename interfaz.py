@@ -24,7 +24,7 @@ USUARIO_ACTUAL = None
 
 # --- 2. Interfaz Gráfica ---
 def main(page: ft.Page):
-    page.title = "Club de Libros"
+    page.title = "Readers Bay"
     page.theme_mode = ft.ThemeMode.LIGHT
     page.padding = 20
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
@@ -71,7 +71,7 @@ def main(page: ft.Page):
         dlg_registro = ft.AlertDialog(
             title=ft.Text("Crear Cuenta"),
             content=ft.Column([
-                ft.Text("Únete al club de libros"),
+                ft.Text("Únete al Readers Bay"),
                 reg_usuario,
                 reg_pass,
                 reg_error
@@ -122,7 +122,7 @@ def main(page: ft.Page):
         content=ft.Column(
             [
                 ft.Icon(name="menu_book", size=60, color="blue"),
-                ft.Text("Bienvenido al Club", size=24, weight="bold"),
+                ft.Text("Bienvenido a Readers Bay", size=24, weight="bold"),
                 txt_usuario,
                 txt_password,
                 txt_error,
@@ -150,7 +150,7 @@ def main(page: ft.Page):
         page.clean()
         page.vertical_alignment = ft.MainAxisAlignment.START
         page.horizontal_alignment = ft.CrossAxisAlignment.START
-        page.title = f"Club de Libros - Hola {USUARIO_ACTUAL['nombre']}"
+        page.title = f"Readers Bay - Hola {USUARIO_ACTUAL['nombre']}"
 
         # --- LOGICA BANDEJA DE ENTRADA (NUEVO) ---
         def mostrar_mis_recomendaciones(e):
@@ -213,7 +213,7 @@ def main(page: ft.Page):
             [
                 ft.Column([
                     ft.Text(f"Hola, {USUARIO_ACTUAL['nombre']} 👋", size=20, weight="bold"),
-                    ft.Text("Biblioteca del Club", size=14, color="grey")
+                    ft.Text("Biblioteca de Readers Bay", size=14, color="grey")
                 ], expand=True),
                 
                 # BOTÓN NUEVO: NOTIFICACIONES
